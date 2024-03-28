@@ -1,0 +1,366 @@
+{
+    "0": {
+        "name": "wikidatawiki-20240201-pages-meta-current1.xml-p1p441397.bz2",
+        "download_indicator": 0
+    },
+    "1": {
+        "name": "wikidatawiki-20240201-pages-meta-current2.xml-p441398p1114931.bz2",
+        "download_indicator": 0
+    },
+    "2": {
+        "name": "wikidatawiki-20240201-pages-meta-current3.xml-p1114932p2049641.bz2",
+        "download_indicator": 0
+    },
+    "3": {
+        "name": "wikidatawiki-20240201-pages-meta-current4.xml-p2049642p3098446.bz2",
+        "download_indicator": 0
+    },
+    "4": {
+        "name": "wikidatawiki-20240201-pages-meta-current5.xml-p3098447p4469004.bz2",
+        "download_indicator": 0
+    },
+    "5": {
+        "name": "wikidatawiki-20240201-pages-meta-current6.xml-p4469005p5969004.bz2",
+        "download_indicator": 0
+    },
+    "6": {
+        "name": "wikidatawiki-20240201-pages-meta-current6.xml-p5969005p6052571.bz2",
+        "download_indicator": 0
+    },
+    "7": {
+        "name": "wikidatawiki-20240201-pages-meta-current7.xml-p6052572p7552571.bz2",
+        "download_indicator": 0
+    },
+    "8": {
+        "name": "wikidatawiki-20240201-pages-meta-current7.xml-p7552572p7838096.bz2",
+        "download_indicator": 0
+    },
+    "9": {
+        "name": "wikidatawiki-20240201-pages-meta-current8.xml-p7838097p9338096.bz2",
+        "download_indicator": 0
+    },
+    "10": {
+        "name": "wikidatawiki-20240201-pages-meta-current8.xml-p9338097p10838096.bz2",
+        "download_indicator": 0
+    },
+    "11": {
+        "name": "wikidatawiki-20240201-pages-meta-current8.xml-p10838097p11495800.bz2",
+        "download_indicator": 0
+    },
+    "12": {
+        "name": "wikidatawiki-20240201-pages-meta-current9.xml-p11495801p12995800.bz2",
+        "download_indicator": 0
+    },
+    "13": {
+        "name": "wikidatawiki-20240201-pages-meta-current9.xml-p12995801p13998367.bz2",
+        "download_indicator": 0
+    },
+    "14": {
+        "name": "wikidatawiki-20240201-pages-meta-current10.xml-p13998368p15498367.bz2",
+        "download_indicator": 0
+    },
+    "15": {
+        "name": "wikidatawiki-20240201-pages-meta-current10.xml-p15498368p16236979.bz2",
+        "download_indicator": 0
+    },
+    "16": {
+        "name": "wikidatawiki-20240201-pages-meta-current11.xml-p16236980p17670284.bz2",
+        "download_indicator": 0
+    },
+    "17": {
+        "name": "wikidatawiki-20240201-pages-meta-current12.xml-p17670285p19170284.bz2",
+        "download_indicator": 0
+    },
+    "18": {
+        "name": "wikidatawiki-20240201-pages-meta-current12.xml-p19170285p19883157.bz2",
+        "download_indicator": 0
+    },
+    "19": {
+        "name": "wikidatawiki-20240201-pages-meta-current13.xml-p19883158p21383157.bz2",
+        "download_indicator": 0
+    },
+    "20": {
+        "name": "wikidatawiki-20240201-pages-meta-current13.xml-p21383158p22836126.bz2",
+        "download_indicator": 0
+    },
+    "21": {
+        "name": "wikidatawiki-20240201-pages-meta-current14.xml-p22836127p24336126.bz2",
+        "download_indicator": 0
+    },
+    "22": {
+        "name": "wikidatawiki-20240201-pages-meta-current14.xml-p24336127p25024140.bz2",
+        "download_indicator": 0
+    },
+    "23": {
+        "name": "wikidatawiki-20240201-pages-meta-current15.xml-p25024141p26524140.bz2",
+        "download_indicator": 0
+    },
+    "24": {
+        "name": "wikidatawiki-20240201-pages-meta-current15.xml-p26524141p27066455.bz2",
+        "download_indicator": 0
+    },
+    "25": {
+        "name": "wikidatawiki-20240201-pages-meta-current16.xml-p27066456p28566455.bz2",
+        "download_indicator": 0
+    },
+    "26": {
+        "name": "wikidatawiki-20240201-pages-meta-current16.xml-p28566456p29578205.bz2",
+        "download_indicator": 0
+    },
+    "27": {
+        "name": "wikidatawiki-20240201-pages-meta-current17.xml-p29578206p31078205.bz2",
+        "download_indicator": 0
+    },
+    "28": {
+        "name": "wikidatawiki-20240201-pages-meta-current17.xml-p31078206p31710876.bz2",
+        "download_indicator": 0
+    },
+    "29": {
+        "name": "wikidatawiki-20240201-pages-meta-current18.xml-p31710877p33210876.bz2",
+        "download_indicator": 0
+    },
+    "30": {
+        "name": "wikidatawiki-20240201-pages-meta-current18.xml-p33210877p34710876.bz2",
+        "download_indicator": 0
+    },
+    "31": {
+        "name": "wikidatawiki-20240201-pages-meta-current18.xml-p34710877p36053267.bz2",
+        "download_indicator": 0
+    },
+    "32": {
+        "name": "wikidatawiki-20240201-pages-meta-current19.xml-p36053268p37553267.bz2",
+        "download_indicator": 0
+    },
+    "33": {
+        "name": "wikidatawiki-20240201-pages-meta-current19.xml-p37553268p39053267.bz2",
+        "download_indicator": 0
+    },
+    "34": {
+        "name": "wikidatawiki-20240201-pages-meta-current19.xml-p39053268p40222795.bz2",
+        "download_indicator": 0
+    },
+    "35": {
+        "name": "wikidatawiki-20240201-pages-meta-current20.xml-p40222796p41722795.bz2",
+        "download_indicator": 0
+    },
+    "36": {
+        "name": "wikidatawiki-20240201-pages-meta-current20.xml-p41722796p43222795.bz2",
+        "download_indicator": 0
+    },
+    "37": {
+        "name": "wikidatawiki-20240201-pages-meta-current20.xml-p43222796p44722795.bz2",
+        "download_indicator": 0
+    },
+    "38": {
+        "name": "wikidatawiki-20240201-pages-meta-current20.xml-p44722796p45527040.bz2",
+        "download_indicator": 0
+    },
+    "39": {
+        "name": "wikidatawiki-20240201-pages-meta-current21.xml-p45527041p47027040.bz2",
+        "download_indicator": 0
+    },
+    "40": {
+        "name": "wikidatawiki-20240201-pages-meta-current21.xml-p47027041p48527040.bz2",
+        "download_indicator": 0
+    },
+    "41": {
+        "name": "wikidatawiki-20240201-pages-meta-current21.xml-p48527041p50027040.bz2",
+        "download_indicator": 0
+    },
+    "42": {
+        "name": "wikidatawiki-20240201-pages-meta-current21.xml-p50027041p50690485.bz2",
+        "download_indicator": 0
+    },
+    "43": {
+        "name": "wikidatawiki-20240201-pages-meta-current22.xml-p50690486p52190485.bz2",
+        "download_indicator": 0
+    },
+    "44": {
+        "name": "wikidatawiki-20240201-pages-meta-current22.xml-p52190486p53690485.bz2",
+        "download_indicator": 0
+    },
+    "45": {
+        "name": "wikidatawiki-20240201-pages-meta-current22.xml-p53690486p55190485.bz2",
+        "download_indicator": 0
+    },
+    "46": {
+        "name": "wikidatawiki-20240201-pages-meta-current22.xml-p55190486p55730032.bz2",
+        "download_indicator": 0
+    },
+    "47": {
+        "name": "wikidatawiki-20240201-pages-meta-current23.xml-p55730033p57230032.bz2",
+        "download_indicator": 0
+    },
+    "48": {
+        "name": "wikidatawiki-20240201-pages-meta-current23.xml-p57230033p58730032.bz2",
+        "download_indicator": 0
+    },
+    "49": {
+        "name": "wikidatawiki-20240201-pages-meta-current23.xml-p58730033p60192698.bz2",
+        "download_indicator": 0
+    },
+    "50": {
+        "name": "wikidatawiki-20240201-pages-meta-current24.xml-p60192699p61692698.bz2",
+        "download_indicator": 0
+    },
+    "51": {
+        "name": "wikidatawiki-20240201-pages-meta-current24.xml-p61692699p63192698.bz2",
+        "download_indicator": 0
+    },
+    "52": {
+        "name": "wikidatawiki-20240201-pages-meta-current24.xml-p63192699p64692698.bz2",
+        "download_indicator": 0
+    },
+    "53": {
+        "name": "wikidatawiki-20240201-pages-meta-current24.xml-p64692699p65585258.bz2",
+        "download_indicator": 0
+    },
+    "54": {
+        "name": "wikidatawiki-20240201-pages-meta-current25.xml-p65585259p67085258.bz2",
+        "download_indicator": 0
+    },
+    "55": {
+        "name": "wikidatawiki-20240201-pages-meta-current25.xml-p67085259p68585258.bz2",
+        "download_indicator": 0
+    },
+    "56": {
+        "name": "wikidatawiki-20240201-pages-meta-current25.xml-p68585259p70085258.bz2",
+        "download_indicator": 0
+    },
+    "57": {
+        "name": "wikidatawiki-20240201-pages-meta-current25.xml-p70085259p71585258.bz2",
+        "download_indicator": 0
+    },
+    "58": {
+        "name": "wikidatawiki-20240201-pages-meta-current25.xml-p71585259p73085258.bz2",
+        "download_indicator": 0
+    },
+    "59": {
+        "name": "wikidatawiki-20240201-pages-meta-current25.xml-p73085259p74585258.bz2",
+        "download_indicator": 0
+    },
+    "60": {
+        "name": "wikidatawiki-20240201-pages-meta-current25.xml-p74585259p75798893.bz2",
+        "download_indicator": 0
+    },
+    "61": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p75798894p77298893.bz2",
+        "download_indicator": 0
+    },
+    "62": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p77298894p78798893.bz2",
+        "download_indicator": 0
+    },
+    "63": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p78798894p80298893.bz2",
+        "download_indicator": 0
+    },
+    "64": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p80298894p81798893.bz2",
+        "download_indicator": 0
+    },
+    "65": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p81798894p83298893.bz2",
+        "download_indicator": 0
+    },
+    "66": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p83298894p84798893.bz2",
+        "download_indicator": 0
+    },
+    "67": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p84798894p86298893.bz2",
+        "download_indicator": 0
+    },
+    "68": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p86298894p87798893.bz2",
+        "download_indicator": 0
+    },
+    "69": {
+        "name": "wikidatawiki-20240201-pages-meta-current26.xml-p87798894p88185873.bz2",
+        "download_indicator": 0
+    },
+    "70": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p88185874p89685873.bz2",
+        "download_indicator": 0
+    },
+    "71": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p89685874p91185873.bz2",
+        "download_indicator": 0
+    },
+    "72": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p91185874p92685873.bz2",
+        "download_indicator": 0
+    },
+    "73": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p92685874p94185873.bz2",
+        "download_indicator": 0
+    },
+    "74": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p94185874p95685873.bz2",
+        "download_indicator": 0
+    },
+    "75": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p95685874p97185873.bz2",
+        "download_indicator": 0
+    },
+    "76": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p97185874p98685873.bz2",
+        "download_indicator": 0
+    },
+    "77": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p98685874p100185873.bz2",
+        "download_indicator": 0
+    },
+    "78": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p100185874p101685873.bz2",
+        "download_indicator": 0
+    },
+    "79": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p101685874p103185873.bz2",
+        "download_indicator": 0
+    },
+    "80": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p103185874p104685873.bz2",
+        "download_indicator": 0
+    },
+    "81": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p104685874p106185873.bz2",
+        "download_indicator": 0
+    },
+    "82": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p106185874p107685873.bz2",
+        "download_indicator": 0
+    },
+    "83": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p107685874p109185873.bz2",
+        "download_indicator": 0
+    },
+    "84": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p109185874p110685873.bz2",
+        "download_indicator": 0
+    },
+    "85": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p110685874p112185873.bz2",
+        "download_indicator": 0
+    },
+    "86": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p112185874p113685873.bz2",
+        "download_indicator": 0
+    },
+    "87": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p113685874p115185873.bz2",
+        "download_indicator": 0
+    },
+    "88": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p115185874p116685873.bz2",
+        "download_indicator": 0
+    },
+    "89": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p116685874p118185873.bz2",
+        "download_indicator": 0
+    },
+    "90": {
+        "name": "wikidatawiki-20240201-pages-meta-current27.xml-p118185874p118574583.bz2",
+        "download_indicator": 0
+    }
+}
