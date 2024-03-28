@@ -1,7 +1,14 @@
 import json
 import requests
-import os
 from tqdm import tqdm
+import argparse
+
+parser = argparse.ArgumentParser(description='Starting point for download threads')
+
+parser.add_argument('st_idx', type=int, help='index of starting id of download list')
+args = parser.parse_args()
+
+st_idx = args.st_idx
 
 file_path = 'urls_wikidatawiki_pages_meta_history_download_list.json'
 
@@ -21,10 +28,10 @@ def download_progress(response, file_size, file, chunk_size=1024):
             progress_bar.update(len(chunk))
     progress_bar.close()
 
-for id in data.keys():
+for id in list(data.keys())[st_idx:]:
     if data[id]['download_indicator'] != 1:
         download_url = f"https://dumps.wikimedia.org/wikidatawiki/20240201/{data[id]['name']}"
-        download_location = f"Wikidatawiki_dumps/meta_history/downloaded/{data[id]['name']}"
+        download_location = f"meta_history/downloaded/{data[id]['name']}"
         response = requests.get(download_url, stream=True)
         file_size = int(response.headers.get('content-length', 0))
         with open(download_location, 'wb') as file:
