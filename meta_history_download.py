@@ -15,11 +15,6 @@ file_path = 'urls_wikidatawiki_pages_meta_history_download_list.json'
 with open(file_path, 'r') as json_file:
     data = json.load(json_file)
 
-def json_save(data, file_path):
-    with open(file_path, 'w') as json_file:
-        json.dump(data, json_file, indent=4)
-
-
 def download_progress(response, file_size, file, chunk_size=1024):
     progress_bar = tqdm(total=file_size, unit='B', unit_scale=True)
     for chunk in response.iter_content(chunk_size=chunk_size):
@@ -38,7 +33,6 @@ for id in list(data.keys())[st_idx:]:
             download_progress(response, file_size, file)
         data[id]['download_indicator'] = 1
         print(f'id:{id}, download completion!')
-        json_save(data, file_path)
     else:
         print(f'id:{id}, already downloaded')
     
